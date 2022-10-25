@@ -1,0 +1,27 @@
+
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT License"
+issueTrackerURL=""
+[[mods]]
+modId="geode"
+version="1.1.5+1.19.2"
+displayName="Geode+"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/geode-forge"
+logoFile="icon.png"
+authors="Owner: YeoXuHang, Artist: Squizzle Dizzle"
+description='''
+a Forge Mod that add geodes to Minecraft Overworld, Nether and even The End!
+'''
+[[dependencies.geode]]
+modId="forge"
+mandatory=true
+versionRange="[43,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.geode]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.19.2,1.20)"
+ordering="NONE"
+side="BOTH"
