@@ -2,7 +2,7 @@
 modLoader="javafml"
 loaderVersion="[43,)"
 license="MIT License"
-issueTrackerURL=""
+issueTrackerURL="https://github.com/YeoXuHang/Geode-Plus/issues"
 [[mods]]
 modId="geode"
 version="1.1.5+1.19.2"
