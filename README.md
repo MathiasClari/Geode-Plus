@@ -1,6 +1,6 @@
 # Geode+
 
-<img alt="This is an image" height="100" src="https://github.com/YeoXuHang/Geode-Plus/blob/master/src/main/resources/icon.png" width="100"/>
+<img alt="This is an image" height="100" src="https://github.com/YeoXuHang/Geode-Plus/blob/master/geode-icon.gif" width="100"/>
 
 
 
