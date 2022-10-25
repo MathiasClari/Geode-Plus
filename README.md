@@ -1,8 +1,12 @@
+<div  align="center">
+
 [![Discord Server][yeoxuhangs-server]][yeoxuhangs-invite]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![GeodePlus][geode-plus-mod]][geode-plus-page]
 [![Lastest][lastest]][geode-plus-file]
+
+</div>
 
 <br />
 <br />
@@ -11,16 +15,16 @@
   <a href="https://www.curseforge.com/minecraft/mc-mods/geode-forge">
     <img src="geode-icon.gif" alt="Logo" width="100" height="100">
   </a>
-<h3 align="center">Geode+</h3>
-  <p align="center">
-</div>
 
-## About The Project
+<h1 align="center">Geode+</h1>
+
+  <h2> About The Project</h2>
+
 [![GeodePlus][product-screenshot]](https://www.curseforge.com/minecraft/mc-mods/geode-forge)
-<br />
 
 A Forge Mod that add geodes to Minecraft Overworld, Nether and even The End!
-<br />
+
+  </div>
 <div align="center">
 <p align="center">
     <br />
