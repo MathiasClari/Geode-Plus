@@ -10,7 +10,7 @@
 # Mod Download Page：
 https://www.curseforge.com/minecraft/mc-mods/geode-forge
 
-<p style="text-align: center;"><strong><em><img src="https://media.forgecdn.net/attachments/492/833/logo-for-geode-plus.png" /></em></strong></p>
+<img alt="This is an image" height="100" src="https://media.forgecdn.net/attachments/492/833/logo-for-geode-plus.png" width="100"/>
 
 
 
