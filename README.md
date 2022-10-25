@@ -17,6 +17,8 @@
 
 ## About The Project
 [![GeodePlus][product-screenshot]](https://www.curseforge.com/minecraft/mc-mods/geode-forge)
+<br />
+
 A Forge Mod that add geodes to Minecraft Overworld, Nether and even The End!
 <br />
 <div align="center">
